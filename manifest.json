@@ -18,12 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "buildpacks": [
-    {
-      "url": "mars/create-react-app"
-    }
-  ],
-  "start_url": ".",
+  "start_url": "mars/create-react-app",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
